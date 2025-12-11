@@ -10,7 +10,7 @@ I'm a Technical Architect and entrepreneur from Kochi, Kerala, specializing in b
 - 🌍 Led technical evolution through multiple mergers: Logiticks → Finlead Logiticks (2017) → Simelabs & Goodbits (2022)
 - 🤖 Expert in architecting solutions with **LLMs**, **Semantic Kernel**, and cloud-native technologies
 - 🏗️ Specialized in end-to-end system design from frontend to cloud infrastructure
-- 📫 Reach me: getmoble@gmail.com
+- 📫 Reach me: moble.joseph@gmail.com
 
 ## 🛠️ Technical Stack
 
